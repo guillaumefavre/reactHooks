@@ -2,7 +2,7 @@ import React from 'react'
 
 import ImageToggleOnMouseOver from '../src/ImageToggleOnMouseOver'
 
-const useRefHook = () => {
+const useRefExample = () => {
 
     return  <div>
                 <ImageToggleOnMouseOver 
@@ -11,4 +11,4 @@ const useRefHook = () => {
             </div>
 }
 
-export default useRefHook
+export default useRefExample
